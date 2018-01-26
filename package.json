@@ -1,0 +1,23 @@
+{
+  "name": "small-appointments",
+  "version": "1.0.0",
+  "description": "Web-App to create and manage small (less than 15 minute) appointments on Google Calander",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HendrikCrause/small-appointments.git"
+  },
+  "author": "Hendrik Crause",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HendrikCrause/small-appointments/issues"
+  },
+  "homepage": "https://github.com/HendrikCrause/small-appointments#readme",
+  "devDependencies": {
+    "react": "^16.2.0",
+    "webpack": "^3.10.0"
+  }
+}
